@@ -1,2 +1,3 @@
-# Olhares-sobre-a-Academia-HackTown
-Olhares sobre a Academia Hacktown
+# Olhares-sobre-a-Academia-HackTown - Livro
+
+Olhares sobre a Academia HackTown / Organizado por Fábio Cristiano de Souza Oliveira ... [et al.]. ― Iguatu, CE : Quipá Editora, 2021
